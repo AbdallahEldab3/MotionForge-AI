@@ -56,8 +56,8 @@ def extract_motion_tensor(video_path, model_path, output_path):
 
 if __name__ == "__main__":
     model_path = r"C:\Users\IBRA\project_maham\models\pose_landmarker_heavy.task"
-    video_path = r"C:\Users\IBRA\project_maham\data\raw_videos\walk1.mp4"
-    output_path = r"C:\Users\IBRA\project_maham\data\keypoints\walk1_motion.npy"
+    video_path = r"C:\Users\IBRA\project_maham\data\raw_videos\arm_stretch.mp4"
+    output_path = r"C:\Users\IBRA\project_maham\data\keypoints\arm_stretch_motion.npy"
     
     tensor = extract_motion_tensor(video_path, model_path, output_path)
     print(np.any(np.all(tensor == 0, axis=(1,2)))) #check
