@@ -5,6 +5,7 @@
 
 **Human Motion Generation from Keypoints using Deep Learning**
 
+**⚠️ This project was a great learning experience, but I have since moved on to other priorities. The code remains available here for educational purposes, but expect no further updates.**
 ---
 
 ### Overview
@@ -110,6 +111,3 @@ If you’d like to collaborate or discuss ideas, feel free to connect.
 
 ---
 
-
-* Upgrade this into a **portfolio-level README (top 1%)**
-* Or help you design a **demo visualization that actually impresses recruiters**
