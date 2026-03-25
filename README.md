@@ -107,6 +107,11 @@ If you’d like to collaborate or discuss ideas, feel free to connect.
 
 ---
 
+### Current Output (Flaged as failed)
+![root](assets/Root.png)
+![Untitled](assets/Untitled.png)
+![Untitled](assets/Untitled.gif)
+![Untitled](assets/motion_results.png)
 ## If you find this project interesting, consider starring the repo!
 
 ---
